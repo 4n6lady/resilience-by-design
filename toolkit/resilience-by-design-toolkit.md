@@ -380,17 +380,17 @@ respond to that information is before it becomes a crisis of its own.
 
 This toolkit accompanies a three-part article series on burnout in security teams:
 
-1. [What Burnout in Security Teams Really Costs Us](link) — How burnout hides in 
+1. [What Burnout in Security Teams Really Costs Us](https://www.linkedin.com/pulse/what-burnout-security-teams-really-costs-us-shannon-brazil-i2gwc) — How burnout hides in 
    high-performing teams and what it actually costs in decision quality, resilience, 
    and long-term effectiveness
-2. [The Leadership Blind Spot in Security Teams](link) — How leadership systems 
+2. [The Leadership Blind Spot in Security Teams](https://www.linkedin.com/pulse/leadership-blind-spot-security-teams-shannon-brazil-yr8wc) — How leadership systems 
    can unintentionally reinforce unsustainable patterns
-3. [Burnout Is Feedback: What Effective Leaders Do Differently](link) — What 
+3. [Burnout Is Feedback: What Effective Leaders Do Differently](https://www.linkedin.com/pulse/burnout-feedback-what-effective-leaders-do-shannon-brazil-4rgnc) — What 
    effective leaders do to make sustained performance possible
 
 ---
 
-*Created by [Shannon Brazil](link) — Senior Security Engineer, Regional Manager, 
+*Created by [Shannon Brazil](https://www.linkedin.com/in/shannonbrazil/) — Senior Security Engineer, Regional Manager, 
 AWS Customer Incident Response Team*
 
 *This work is licensed under 
