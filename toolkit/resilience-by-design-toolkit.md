@@ -42,8 +42,6 @@ ideas into action:
 - [Psychological Safety Team Discussion Guide](../guides/psych-safety-team-discussion.md) — 
   Discussion prompts for team conversations about capacity and communication norms
 
-Note: If you cannot find these, then it means 
-
 ---
 
 ## The Core Idea
