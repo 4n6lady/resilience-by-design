@@ -160,7 +160,7 @@ responding to "just the urgent stuff")
 
 If you take time off but continue to send messages, respond to 
 questions, or engage with incidents, your team receives the message
-that time off is not real. Regardless of what you say.
+that time off is not real. Regardless of what you say.  
 [ ] Yes — they know, and they see me disconnect   
 [ ] They know I'm off but see me engaged anyway   
 [ ] It's ambiguous   
@@ -288,7 +288,7 @@ failure?**
 first instinct?**   
 
 Be honest about the instinct, not the considered response.   
- ] This person needs support and the system needs to change   
+[ ] This person needs support and the system needs to change   
 [ ] This person needs better boundaries or time management   
 [ ] I need to reduce their load temporarily   
 [ ] I need to absorb some of their work myself   
