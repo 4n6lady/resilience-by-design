@@ -443,3 +443,4 @@ that needs to be examined.
 - [Workshop Facilitator Guide](../workshop/facilitator-guide.md) — 
   A more comprehensive, structured session format if you want to 
   go deeper than this discussion guide
+- [Capacity Response Protocol](../templates/capacity-response-protocol.md) - a resource to help leadership respond to team members at capacity
