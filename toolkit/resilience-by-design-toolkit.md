@@ -286,6 +286,7 @@ These aren't signs of weakness. They're signs that the system is working.
   self-protection.
 - See the [Psychological Safety Team Discussion Guide](../guides/psych-safety-team-discussion.md) 
   for prompts to open this conversation with your team.
+- See the [Capacity Response Protocol](../templates/capacity-control-protocol.md) for guidance on how to respond to team members stating they are over capacity. 
 
 ---
 
