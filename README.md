@@ -64,6 +64,7 @@ that thinking into practice.
 | [Single Points of Cognitive Failure Mapping](templates/cognitive-failure-mapping.md) | An exercise for identifying where critical knowledge and context are concentrated on your team |
 | [Quarterly Team Resilience Review](templates/quarterly-resilience-review.md) | A structured self-assessment for leaders to review team patterns once a quarter |
 | [Manager Self-Assessment](templates/manager-self-assessment.md) | A private reflection tool for leaders examining their own role in the system |
+| [Capacity Response Protocol](templates/capacity-response-protocol.md) | A structured response protocol when someone says they are at capacity|
 
 ### Guides
 
